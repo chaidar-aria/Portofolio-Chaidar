@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Story App Portofolio</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="message_login_page">Silakan login untuk melanjutkan</string>
+    <string name="title_login_page">"STORY APP SUBMISSION "</string>
+    <string name="register">Daftar</string>
+    <string name="name">Name</string>
+    <string name="title_signup_page">Daftar Akun Aplikasi Story App</string>
+    <string name="hintTextName">Nama</string>
+    <string name="already_have_account">Sudah punya akun? <u>Klik disini</u></string>
+    <string name="not_have_account">Belum Punya akun? <u>Klik disini</u></string>
+    <string name="card_title">Card Title</string>
+    <string name="card_content">Card Content</string>
+    <string name="JudulDetail">Judul</string>
+    <string name="DeskripsiDetail">DeskripsiDetail</string>
+    <string name="camera">kamera</string>
+    <string name="gallery">galeri</string>
+    <string name="upload">unggah</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retry">coba lagi</string>
+</resources>
