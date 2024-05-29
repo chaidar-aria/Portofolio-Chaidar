@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Save Disaster Portofolio</string>
+        <string name="call_bnpb">BNPB</string>
+        <string name="call_police">POLISI</string>
+        <string name="call_ambulance">AMBULANCE</string>
+        <string name="call_firefighter">DAMKAR</string>
+        <string name="call_sar">SAR</string>
+        <string name="call_basarnas">BASARNAS</string>
+        <string name="call_tni">TNI</string>
+        <string name="menu_home">Beranda</string>
+        <string name="menu_maps">Peta</string>
+        <string name="menu_profile">Profil</string>
+        <string name="number_bnpb">02129827793</string>
+        <string name="number_police">110</string>
+        <string name="number_basarnas">115</string>
+
+        <string name="permission_location_rationale">This app requires the location permission to be
+    granted.</string>
+        <string name="back_button">Kembali</string>
+        <string name="create_new_account">Buat Akun Baru</string>
+        <string name="full_name">Nama Lengkap</string>
+        <string name="enter_your_name">Masukkan nama</string>
+        <string name="email_address">Alamat Email</string>
+        <string name="sample_email">email@gmail.com</string>
+        <string name="enter_password">Masukkan Kata Sandi</string>
+        <string name="enter_your_password">Masukkan Kata Sandi</string>
+        <string name="create_password">Buat Kata Sandi</string>
+        <string name="create_your_password">Buat Kata Sandi</string>
+        <string name="sign_up">Daftar</string>
+        <string name="welcome_back">Selamat datang kembali</string>
+        <string name="sign_in">Login</string>
+        <string name="remember_me">Ingat saya</string>
+
+        <string name="garut">Garut</string>
+        <string name="sukabumi">Sukabumi</string>
+        <string name="cianjur">Cianjur</string>
+        <string name="pelabuhan_ratu">Pelabuhan Ratu</string>
+        <string name="cilacap">Cilacap</string>
+        <string name="gunung_kidul">Gunung Kidul</string>
+        <string name="pacitan">Pacitan</string>
+        <string name="pangandaran">Pangandaran</string>
+        <string name="tulungagung">Tulungagung</string>
+
+        <string name="peta_klasterisasi_2022">Peta Klasterisasi 2022</string>
+        <string name="peta_klasterisasi_2023">Peta Klasterisasi 2023</string>
+</resources>
