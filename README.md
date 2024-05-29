@@ -36,7 +36,7 @@ Aplikasi ini memungkinkan pengguna untuk berbagi cerita mereka. Fitur utama term
 
 ## Tentang Saya
 
-Saya Chaidar, seorang mahasiswa semester enam di Program Studi Fisika (Spesialisasi Geofisika) di Universitas Surabaya. Saya juga merupakan lulusan Bangkit Academy 2023 Batch 2 dengan jalur pembelajaran Android Development. Saya memiliki minat dalam pemrograman Android, dari penggunaan Kotlin hingga Jetpack Compose.
+Saya Chaidar Aria Bayu Pratama, seorang mahasiswa semester enam di Program Studi Fisika (Spesialisasi Geofisika) di Universitas Negeri Surabaya. Saya juga merupakan lulusan Bangkit Academy 2023 Batch 2 dengan jalur pembelajaran Android Development. Saya memiliki minat dalam pemrograman Android, dari penggunaan Kotlin hingga Jetpack Compose.
 
 Saya juga sedang mengerjakan proyek **Note Taking App** dengan konsep offline-online, yang memungkinkan pengguna untuk menyimpan catatan secara offline dan menyinkronkannya ke cloud saat layanan internet tersedia.
 
